@@ -22,6 +22,13 @@ The project is a Tribute page but unlike others this is a tribute for a programm
 
 **Link to Work**: [an4s911.github.io/tribute-page-c](https://an4s911.github.io/tribute-page-c). It is not responsive, but I am planning on doing that soon.
 
+### Day 4: 16th October Saturday
+
+**Today's Progress**: Learned about the `style` property for DOM objects in JS. And also by following the MDN docs I made a number guessing game with just HTML and JS (No styling).
+
+**Thoughts**: While making the game learned about `Math.floor()` and `Math.random()` functions that are available built-in to browsers I guess.
+
+**Link to Work**: [Number guessing game](https://an4s911.github.io/projects/number-guessing-game)
 <!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
 
 <!-- 
