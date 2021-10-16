@@ -13,6 +13,15 @@
 "NOT TO USE INLINE JAVASCRIPT HANDLERS"
 
 **Link to a tweet**: [Why you shouldn't use JavaScript Event Handlers?](https://twitter.com/an4s911/status/1448726492767301640)
+
+### Day 3: 15th October Friday
+
+**Today's Progress**: I worked a HTML and CSS project today just to repolish my skills as I am learning JavaScript. 
+
+The project is a Tribute page but unlike others this is a tribute for a programming language, **C**.
+
+**Link to Work**: [an4s911.github.io/tribute-page-c](https://an4s911.github.io/tribute-page-c). It is not responsive, but I am planning on doing that soon.
+
 <!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
 
 <!-- 
