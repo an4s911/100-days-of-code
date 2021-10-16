@@ -1,9 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 1: 13th October Wednesday, 2021
+## 2021
+
+### Day 1: 13th October Wednesday
 
 **Today's Progress**: I learned very basic stuff in JavaScript such as variables, comments, operators, conditionals etc.
 
+### Day 2: 14th October Thursday
+
+**Today's Progress**: Learned about the DOM, strategies to handle script loading (async, defer, DOMContendLoaded, etc.). And most importantly: 
+
+"NOT TO USE INLINE JAVASCRIPT HANDLERS"
+
+**Link to a tweet**: [Why you shouldn't use JavaScript Event Handlers?](https://twitter.com/an4s911/status/1448726492767301640)
 <!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
 
 <!-- 
