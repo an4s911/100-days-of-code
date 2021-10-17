@@ -29,6 +29,15 @@ The project is a Tribute page but unlike others this is a tribute for a programm
 **Thoughts**: While making the game learned about `Math.floor()` and `Math.random()` functions that are available built-in to browsers I guess.
 
 **Link to Work**: [Number guessing game](https://an4s911.github.io/projects/number-guessing-game)
+
+### Day 5: 17th Ocotober Sunday
+
+**Today's Progress**: Understood the 2 types of errors, syntax errors and logical errors (or bugs as we call it).
+
+**Thoughts**: Syntax errors are quite easy to tackle and fix becuase it provides an error message which can be looked up in a documentation or some online platform for a solution. 
+
+But the logical errors could end up being a bit complicated. It could take some time to debug the problem (might take even hours or days). 
+
 <!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
 
 <!-- 
