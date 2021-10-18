@@ -38,6 +38,12 @@ The project is a Tribute page but unlike others this is a tribute for a programm
 
 But the logical errors could end up being a bit complicated. It could take some time to debug the problem (might take even hours or days). 
 
+### Day 6: 18th October Monday
+
+**Today's Progress**: Learned a bit more about variables. About `var` and `let` and their difference. And about the `const` keyword to declare constant values that wont change.
+
+**Link to work**: Although I didn't work on any projects I did tweet something that beginners will find useful (hopefully): [Some online code editors for web development](https://twitter.com/an4s911/status/1450145042446827528?s=20https://twitter.com/)
+
 <!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
 
 <!-- 
