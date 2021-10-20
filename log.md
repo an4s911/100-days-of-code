@@ -44,6 +44,22 @@ But the logical errors could end up being a bit complicated. It could take some 
 
 **Link to work**: Although I didn't work on any projects I did tweet something that beginners will find useful (hopefully): [Some online code editors for web development](https://twitter.com/an4s911/status/1450145042446827528?s=20https://twitter.com/)
 
+### Day 7: 19th October Tuesday
+
+**Today's Progress**: Covered basics maths in JS, a bit about strings and string methods and arrays and array methods. Covered a lot but didn't work on any project.
+
+**Thoughts**: I thought of working on a project, but I didn't get time. Probably tomorrow. I have to complete an Assessment: the silly story generator, using javascript in MDN. I'll be doing that and work on a project tomorrow.
+
+Although I did not do any projects I did write a blog. 
+
+**Link to blog**: [Don't leave your functions without calling them](https://blog.anasbasheer.tech/dont-leave-your-functions)
+
+
+
+
+
+
+
 <!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
 
 <!-- 
