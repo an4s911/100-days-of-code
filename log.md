@@ -54,6 +54,12 @@ Although I did not do any projects I did write a blog.
 
 **Link to blog**: [Don't leave your functions without calling them](https://blog.anasbasheer.tech/dont-leave-your-functions)
 
+### Day 8: 21st October Thursday
+
+**Today's Progress**: Completed the Assessment *Silly Story Generator*.
+
+**Link to work**: [Silly Story Generator](an4s911.github.com/projects/silly-story-generator/)
+
 
 
 
