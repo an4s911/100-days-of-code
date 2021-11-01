@@ -60,9 +60,21 @@ Although I did not do any projects I did write a blog.
 
 **Link to work**: [Silly Story Generator](an4s911.github.com/projects/silly-story-generator/)
 
+### Day 9: 31st October Monday
 
+Umm, I took a gap because life got in the way. 
 
+For some time now I am really confused if I should continue with Web Development or go for some other area of computer science. I don't know because I think I am more interested in learning Python, C, the Assembly Language and get to the fundamentals of computers, and learn about Operating systems, learn how to make one, learn to make a programming language etc. I don't know. I am a bit confused.
 
+But nevertheless I have decided that as I have already started learning JavaScript, I will just finish this then get into whatever else I wanna learn whether it be **C**, **Assembly** or anything else. 
+
+So I will try to be consistent on JS from today hopefully.
+
+**Today's Progress**: I completed my Final project for a CS course I started on June, Introduction to Computer Science by Harvard (*CS50x*) and got a certificate.
+
+**Link to final project**: [CS50 Final Project](https://github.com/an4s911/cs50-final-project)
+
+**Link to the Certificate**: [CS50 Certificate](https://certificates.cs50.io/e2a09a0a-599f-49d3-8f93-2e4240f8fed1)
 
 
 
