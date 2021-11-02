@@ -80,7 +80,7 @@ So I will try to be consistent on JS from today hopefully.
 
 **Today's Progress**: I learned conditionals in JavaScript such as `if...else if...else` statements. The `switch...case...default` statements. And the *ternary or conditional operator* with the `?:` syntax.
 
-I did the tasks given on the MDN site.
+I did the first task on conditionals on the MDN site. I have to complete the others.
 
 
 <!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
