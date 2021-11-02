@@ -60,7 +60,7 @@ Although I did not do any projects I did write a blog.
 
 **Link to work**: [Silly Story Generator](an4s911.github.com/projects/silly-story-generator/)
 
-### Day 9: 31st October Monday
+### Day 9: 31st October Sunday
 
 Umm, I took a gap because life got in the way. 
 
