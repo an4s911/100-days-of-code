@@ -76,6 +76,11 @@ So I will try to be consistent on JS from today hopefully.
 
 **Link to the Certificate**: [CS50 Certificate](https://certificates.cs50.io/e2a09a0a-599f-49d3-8f93-2e4240f8fed1)
 
+### Day 10: 2nd November Tuesday
+
+**Today's Progress**: I learned conditionals in JavaScript such as `if...else if...else` statements. The `switch...case...default` statements. And the *ternary or conditional operator* with the `?:` syntax.
+
+I did the tasks given on the MDN site.
 
 
 <!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
