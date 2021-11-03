@@ -82,6 +82,11 @@ So I will try to be consistent on JS from today hopefully.
 
 I did the first task on conditionals on the MDN site. I have to complete the others.
 
+### Day 11: 3rd November Wednesday
+
+**Today's Progress**: I completed 2 other tasks on conditionals. 
+
+And I completed the Looping code, learnt `for` loops, `while` loops and `do...while` loops.
 
 <!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
 
