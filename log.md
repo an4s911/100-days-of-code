@@ -90,32 +90,58 @@ And I completed the Looping code, learnt `for` loops, `while` loops and `do...wh
 
 <!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
 
-<!-- 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 12: 21st September Thursday
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Basically I'm gonna continue 100daysofcode from here. And I will just log my progress here. Currently I am doing TheOdinProject. And I am doing the Full Stack Javascript path. And I am in the javascript course. The last lesson I completed was the Tic Tac Toe project.
 
-**Link to work:** [Calculator App](http://www.example.com)
+And today I am going through the lesson ***Classes***.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**List of things I learned today**:
+- Javascript class getters and setters (property accessors)
+    - I can also define setters and getters using `defineProperty`:
+    - `Object.defineProperty(obj, 'propName', {get() {...}, set(value){...}});`
+- Basic syntac for classes
+    - Class expressions - just like functions classes can be defined inside other expression, passed around, returned assigned, etc.
+    - Classes can have getters and setters as well
+    - Computed names[...], this is weird and pretty cool:
+        ```
+        class User {
+            ['say' + 'Hi']() {
+                alert("Hello");
+            }
+        }
+        
+        new User().sayHi(); // alerts Hello
+        ```
+    - Class fields: basically the properties of the object
+    - static class fields using the `static keyword`
+        - they are accessed on the class not the instances
+    - private class members or properties can be created using a hash `#` prefix
+        - constructors cannot be private
+    - static initialization blocks
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 13: 23rd September Saturday
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+So I didn't get time to do anything yesterday, so I am continuing today from where I left off in the *Classes* lesson.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence -->
+**Things learned today:**
+- Continuation static initialization blocks
+- Class methods
+- Class inheritance using the `extends` keyword
+- The weird thing about `this` in class methods:
+    - So in class methods `this` refers to the instance of the class that is used to call the method
+    - but if the method is assigned to a variable then `this` will become undefined
+    - similar behavior with `static` methods as well.
+        - in `static` methods `this` refers to the class itself
+        - and similarly, if the method is assigned to a variable then `this` becomes `undefined`
+- different ways of using `extends`:
+    - extend plain objects
+    - built-in objects
+    - Extending `Object`
+    - Species:
+        - using `Symbol.species`
+    - ***Mix-ins*** 
+- Using composition instead of inheritance
+- Finally completed the *Classes* lesson.
