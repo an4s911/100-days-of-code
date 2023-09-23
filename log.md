@@ -124,7 +124,7 @@ And today I am going through the lesson ***Classes***.
 
 ### Day 13: 23rd September Saturday
 
-So I didn't get time to do anything yesterday, so I am continuing today from where I left off in the *Classes* lesson.
+So I didn't get time to do anything yesterday, so I am continuing today from where I left off in the [Classes](https://www.theodinproject.com/lessons/node-path-javascript-classes) lesson.
 
 **Things learned today:**
 - Continuation static initialization blocks
